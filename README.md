@@ -1,4 +1,4 @@
-# transferencia-de-tecnologia-diagnostico
+# Lenguajes y compiladores
 
 Instalar:
 
