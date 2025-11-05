@@ -17,10 +17,12 @@ en la terminal:
 Problema 1:
 
 go run "problema1/fen.go"
+
 Problema 2:
 
 go run "problema2/pascal.go"
 python "problema2/pascal2.py"
+
 Problema 3:
 
 -go run "problema3/recon.go"
